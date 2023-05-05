@@ -36,14 +36,18 @@ Mobile Phone: 86-135-20283017
 ## Education History
 ```
 •	ICT (Institute of Computing Technology), CAS (Chinese Academy of Science) (1998.9 – 2001.6), Computer Science Master
-•	Harbin Institute of Technology (1994.9 – 1998.7), MIS(Management Information System) Bachelor 
-Work Experiences
-•	Inspur Cloud (2018.11 – 2023.3): OVS DPDK acceleration, NAT gateway, EIP cluster, openstack neutron reimplementation with full openflow (virtual network routing, floating IP, floating IP QoS, snat, port forwarding), OVS hardware offload by smartNIC with SF and vDPA enabled (support live migration)
-•	Intel (2007.6 – 2018.11): System Software Architect, Opendaylight SFC (Service Function Chaining) project developer, LTE reference software architect (UE and BS main framework, Waddell Creek and CPRI emulator integration, Multisector),  MIC2 (MeeGo Image Creator) and MIM (MeeGo Image Manager) Designer & Developer & Maintainer (http://meego.gitorious.org/meego-developer-tools/image-creatorand http://meego.gitorious.org/meego-developer-tools/image-manager), Kernel Development (ACPI, ACPICA, MISC), OSV (RedHat, Ubuntu, SuSE) Enabling Test Suite, Automated Installation and Test System. 
+•	Harbin Institute of Technology (1994.9 – 1998.7), MIS(Management Information System) Bachelor Work Experiences
+•	Inspur Cloud (2018.11 – 2023.3): OVS DPDK acceleration, NAT gateway, EIP cluster, openstack neutron reimplementation with full openflow
+  (virtual network routing, floating IP, floating IP QoS, snat, port forwarding), OVS hardware offload by smartNIC with SF and vDPA enabled (support live migration)
+•	Intel (2007.6 – 2018.11): System Software Architect, Opendaylight SFC (Service Function Chaining) project developer, LTE reference software architect
+  (UE and BS main framework, Waddell Creek and CPRI emulator integration, Multisector),  MIC2 (MeeGo Image Creator) and MIM (MeeGo Image Manager) Designer & Developer
+  & Maintainer (http://meego.gitorious.org/meego-developer-tools/image-creatorand http://meego.gitorious.org/meego-developer-tools/image-manager), Kernel Development
+  (ACPI, ACPICA, MISC), OSV (RedHat, Ubuntu, SuSE) Enabling Test Suite, Automated Installation and Test System. 
 •	IBM (2006.7 – 2007.6): Staff Software Engineer, TSM (Tivoli Storage Management, IBM Stroage Management Software Product) Level 3, Linux Kernel and Test Cases Developer 
 •	Sunrise Telecom (2006.2 – 2006.7): Design and develop a distributed and cross-platform network communication system， use ACE 
 •	MontaVista (2004.3 – 2006.2): MontaVista Realtime Embeded Linux Userland, Kernel, Tools
-•	Lenovo (2001.6 – 2004.3): IDS (Intrusion Detection System, pattern-matching based deep packet inspection, i.e. DPI),IPS (Intrusion Prevention System), Firewall, Exploits Scanner, VPN(Virtual Private Network)，Firewall Central Administration， CA (Certificate Authority, cryptograph-based security technology)
+•	Lenovo (2001.6 – 2004.3): IDS (Intrusion Detection System, pattern-matching based deep packet inspection, i.e. DPI),IPS (Intrusion Prevention System), Firewall,
+  Exploits Scanner, VPN(Virtual Private Network)，Firewall Central Administration， CA (Certificate Authority, cryptograph-based security technology)
 ```
 
 ## International conference presentations
@@ -58,9 +62,9 @@ Work Experiences
 [Integration of OpenDaylight Service Function Chaining & Vector Packet Processing](https://www.youtube.com/watch?v=e4k62d8uhf4)
 
 
-[Implement SFC and NSH Proxy by Using Pure VPP Only](https://www.openstack.org/videos/boston-2017/implement-sfc-and-nsh- proxy-by-using-pure-vpp-only)
+[Implement SFC and NSH Proxy by Using Pure VPP Only](https://www.openstack.org/videos/boston-2017/implement-sfc-and-nsh-proxy-by-using-pure-vpp-only)
 
-[NSH-based Service Function Chaining with OVS using Packet-type Aware Pipeline](https://www.youtube.com/watch?v=RrS11lJmK3Y&index=28&list=PLaJlRa-xItwD7ikTsrZO hju5xbE-QP9U1)
+[NSH-based Service Function Chaining with OVS using Packet-type Aware Pipeline](https://www.youtube.com/watch?v=RrS11lJmK3Y&index=28&list=PLaJlRa-xItwD7ikTsrZOhju5xbE-QP9U1)
 
 [Running OVS-DPDK Without Hugepages, Busy Loop, and Exclusive Cores](http://www.openvswitch.org/support/ovscon2018/5/0910-yang.pdf)
 
@@ -70,7 +74,7 @@ Work Experiences
 
 [OVS DPDK issues in Openstack and Kubernetes and Solutions](http://www.openvswitch.org/support/ovscon2019/day1/1014-OVS%20DPDK%20issues%20in%20Openstack%20and%20Kubernetes%20and%20Solutions%20-%20Yi%20Yang% 20Inspur.pptx)
 
-[Using OVS to Implement High Performance NAT Gateway in Public Cloud Data Center](http://www.openvswitch.org/support/ovscon2019/day2/1448-Using%20OVS%20to%20I mplement%20High%20Performance%20NAT%20Gateway%20in%20Public%20Cloud%20 Data%20Center%20-%20Yi%20Yang%20Inspur.pptx)
+[Using OVS to Implement High Performance NAT Gateway in Public Cloud Data Center](http://www.openvswitch.org/support/ovscon2019/day2/1448-Using%20OVS%20to%20Implement%20High%20Performance%20NAT%20Gateway%20in%20Public%20Cloud%20 Data%20Center%20-%20Yi%20Yang%20Inspur.pptx)
 
 [OVS DPDK Pitfalls in Openstack and Kubernetes](https://static.sched.com/hosted_files/dpdkna2019/b6/OVS%20DPDK%20Pitfalls%20in%20Openstack%20and%20Kubernetes%20-%20Yi%20Yang%20Inspur.pptx)
 
