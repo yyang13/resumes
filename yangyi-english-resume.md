@@ -92,9 +92,9 @@ CA (Certificate Authority, cryptograph-based security technology)
 
 [Sangfor Cloud Security Pool, The First-Ever NSH Use Case in Service Function Chaining Product](http://www.openvswitch.org/support/ovscon2018/6/1115-chen.ppt)
 
-[OVS DPDK issues in Openstack and Kubernetes and Solutions](http://www.openvswitch.org/support/ovscon2019/day1/1014-OVS%20DPDK%20issues%20in%20Openstack%20and%20Kubernetes%20and%20Solutions%20-%20Yi%20Yang%20Inspur.pptx)
+[OVS DPDK issues in Openstack and Kubernetes and Solutions](https://www.openvswitch.org/support/ovscon2019/day1/1014-OVS%20DPDK%20issues%20in%20Openstack%20and%20Kubernetes%20and%20Solutions%20-%20Yi%20Yang%20Inspur.pptx)
 
-[Using OVS to Implement High Performance NAT Gateway in Public Cloud Data Center](http://www.openvswitch.org/support/ovscon2019/day2/1448-Using%20OVS%20to%20Implement%20High%20Performance%20NAT%20Gateway%20in%20Public%20Cloud%20Data%20Center%20-%20Yi%20Yang%20Inspur.pptx)
+[Using OVS to Implement High Performance NAT Gateway in Public Cloud Data Center](https://www.openvswitch.org/support/ovscon2019/day2/1448-Using%20OVS%20to%20Implement%20High%20Performance%20NAT%20Gateway%20in%20Public%20Cloud%20Data%20Center%20-%20Yi%20Yang%20Inspur.pptx)
 
 [OVS DPDK Pitfalls in Openstack and Kubernetes](https://static.sched.com/hosted_files/dpdkna2019/b6/OVS%20DPDK%20Pitfalls%20in%20Openstack%20and%20Kubernetes%20-%20Yi%20Yang%20Inspur.pptx)
 
