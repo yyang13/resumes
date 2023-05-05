@@ -11,14 +11,14 @@ Email Address: yang_y_yi at 163 dot com
 WeChat：<img src="https://user-images.githubusercontent.com/1381010/236420887-fa050ea0-3b28-4c9e-b901-bca090dacdf8.jpg" width=128 height=128>
 
 ## Company History
-```
-•	Inspur Cloud 2018.11 – 2023.3
-•	Intel 2007.6 – 2018.11
-•	IBM 2006.7 – 2007.6
-•	Sunrise Telecom 2006.2 – 2006.7
-•	MontaVista 2004.3 – 2006.2
-•	Lenovo 2001.6 – 2004.3
-```
+
+- Inspur Cloud 2018.11 – 2023.3
+- Intel 2007.6 – 2018.11
+- IBM 2006.7 – 2007.6
+- Sunrise Telecom 2006.2 – 2006.7
+- MontaVista 2004.3 – 2006.2
+- Lenovo 2001.6 – 2004.3
+
 ## Skills
 ```
 1.	Openstack, Opendaylight, OVS, DPDK, SDN & NFV
