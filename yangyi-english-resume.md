@@ -20,18 +20,18 @@ WeChat：<img src="https://user-images.githubusercontent.com/1381010/236420887-f
 - Lenovo 2001.6 – 2004.3
 
 ## Skills
-```
-1.	Openstack, Opendaylight, OVS, DPDK, SDN & NFV
-2.	Multithread programing and debugging
-3.	Cache optimization
-4.	Realtime Linux Technology 
-5.	Embeded Linux Technology 
-6.	Excellent C/C++ Programming 
-7.	GDB debugger
-8.	Strong knowledge of Linux Kernel, include memory management, file system, Linux assembly code, Ethernet Drivers 
-9.	Strong programming skills in C/C++, Python, PyGtk, shell, Perl,PHP HTML, JavaScript, Ajax
-10.	Familiar with MySQL, PostGreSQL, Informix, SQL Server
-```
+
+- Openstack, Opendaylight, OVS, DPDK, SDN & NFV
+- Multithread programing and debugging
+- Cache optimization
+- Realtime Linux Technology 
+- Embeded Linux Technology 
+- Excellent C/C++ Programming 
+- GDB debugger
+- Strong knowledge of Linux Kernel, include memory management, file system, Linux assembly code, Ethernet Drivers 
+- Strong programming skills in C/C++, Python, PyGtk, shell, Perl,PHP HTML, JavaScript, Ajax
+- Familiar with MySQL, PostGreSQL, Informix, SQL Server
+
 
 ## Education History
 - ICT (Institute of Computing Technology), CAS (Chinese Academy of Science) (1998.9 – 2001.6), Computer Science Master
