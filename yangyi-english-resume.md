@@ -51,28 +51,28 @@ Work Experiences
 
 [Make OVS DPDK a First-class Citizen in Openstack](https://www.openvswitch.org/support/ovscon2021/slides/make_ovs_dpdk_first_class.pptx)
 
-[Fix Openflow Multiwriter issues in Openstack- Yi Yang](https://www.youtube.com/watch?v=1ziuQSmCkds)
+[Fix Openflow Multiwriter issues in Openstack](https://www.youtube.com/watch?v=1ziuQSmCkds)
 
 [ODL SFC and VPP Integration](https://wiki.fd.io/view/File:ODL_SFC_and_VPP_Integration.pptx)
 
 [Integration of OpenDaylight Service Function Chaining & Vector Packet Processing](https://www.youtube.com/watch?v=e4k62d8uhf4)
 
 
-[Implement SFC and NSH Proxy by Using Pure VPP Only (Danny helped present)](https://www.openstack.org/videos/boston-2017/implement-sfc-and-nsh- proxy-by-using-pure-vpp-only)
+[Implement SFC and NSH Proxy by Using Pure VPP Only](https://www.openstack.org/videos/boston-2017/implement-sfc-and-nsh- proxy-by-using-pure-vpp-only)
 
-[NSH-based Service Function Chaining with OVS using Packet-type Aware Pipeline (Yi Yang, Intel, and Jan Scheurich and Zoltan Balogh, Ericsson)](https://www.youtube.com/watch?v=RrS11lJmK3Y&index=28&list=PLaJlRa-xItwD7ikTsrZO hju5xbE-QP9U1)
+[NSH-based Service Function Chaining with OVS using Packet-type Aware Pipeline](https://www.youtube.com/watch?v=RrS11lJmK3Y&index=28&list=PLaJlRa-xItwD7ikTsrZO hju5xbE-QP9U1)
 
-[Running OVS-DPDK Without Hugepages, Busy Loop, and Exclusive Cores (Yi Yang, Inspur)](http://www.openvswitch.org/support/ovscon2018/5/0910-yang.pdf)
+[Running OVS-DPDK Without Hugepages, Busy Loop, and Exclusive Cores](http://www.openvswitch.org/support/ovscon2018/5/0910-yang.pdf)
 
-[Comparison Between OVS and Tungsten Fabric vRouter (Yi Yang, Inspur)](http://www.openvswitch.org/support/ovscon2018/6/0940-yang.pptx)
+[Comparison Between OVS and Tungsten Fabric vRouter](http://www.openvswitch.org/support/ovscon2018/6/0940-yang.pptx)
 
-[Sangfor Cloud Security Pool, The First-Ever NSH Use Case in Service Function Chaining Product (XiaoFan Chen, Sangfor and Yi Yang, Inspur)](http://www.openvswitch.org/support/ovscon2018/6/1115-chen.ppt)
+[Sangfor Cloud Security Pool, The First-Ever NSH Use Case in Service Function Chaining Product](http://www.openvswitch.org/support/ovscon2018/6/1115-chen.ppt)
 
-[OVS DPDK issues in Openstack and Kubernetes and Solutions (Yi Yang, Inspur)](http://www.openvswitch.org/support/ovscon2019/day1/1014-OVS%20DPDK%20issues%20in%20Openstack%20and%20Kubernetes%20and%20Solutions%20-%20Yi%20Yang% 20Inspur.pptx)
+[OVS DPDK issues in Openstack and Kubernetes and Solutions](http://www.openvswitch.org/support/ovscon2019/day1/1014-OVS%20DPDK%20issues%20in%20Openstack%20and%20Kubernetes%20and%20Solutions%20-%20Yi%20Yang% 20Inspur.pptx)
 
-[Using OVS to Implement High Performance NAT Gateway in Public Cloud Data Center (Yi Yang, Inspur)](http://www.openvswitch.org/support/ovscon2019/day2/1448-Using%20OVS%20to%20I mplement%20High%20Performance%20NAT%20Gateway%20in%20Public%20Cloud%20 Data%20Center%20-%20Yi%20Yang%20Inspur.pptx)
+[Using OVS to Implement High Performance NAT Gateway in Public Cloud Data Center](http://www.openvswitch.org/support/ovscon2019/day2/1448-Using%20OVS%20to%20I mplement%20High%20Performance%20NAT%20Gateway%20in%20Public%20Cloud%20 Data%20Center%20-%20Yi%20Yang%20Inspur.pptx)
 
-[OVS DPDK Pitfalls in Openstack and Kubernetes   Yi Yang, Inspur，](https://static.sched.com/hosted_files/dpdkna2019/b6/OVS%20DPDK%20Pitfalls%20in%20Openstack%20and%20Kubernetes%20-%20Yi%20Yang%20Inspur.pptx)
+[OVS DPDK Pitfalls in Openstack and Kubernetes](https://static.sched.com/hosted_files/dpdkna2019/b6/OVS%20DPDK%20Pitfalls%20in%20Openstack%20and%20Kubernetes%20-%20Yi%20Yang%20Inspur.pptx)
 
 ## Linux kernel patches
 
