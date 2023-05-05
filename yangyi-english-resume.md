@@ -8,7 +8,7 @@ Country:    China
 City:       Beijing
 Email Address: yang_y_yi at 163 dot com
 ```
-WeChat：![WeChat QRcode](https://user-images.githubusercontent.com/1381010/236420887-fa050ea0-3b28-4c9e-b901-bca090dacdf8.jpg){: width=64 height=64}
+WeChat：<img src="https://user-images.githubusercontent.com/1381010/236420887-fa050ea0-3b28-4c9e-b901-bca090dacdf8.jpg" width=64 height=64>
 
 ## Company History
 ```
