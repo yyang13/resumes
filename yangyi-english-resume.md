@@ -51,14 +51,23 @@ reference software architect (UE and BS main framework, Waddell Creek and CPRI e
 (MeeGo Image Creator) and MIM (MeeGo Image Manager) Designer & Developer & Maintainer, Kernel Development
 (ACPI, ACPICA, MISC), OSV (RedHat, Ubuntu, SuSE) Enabling Test Suite, Automated Installation and Test System. 
 ```
-- IBM (2006.7 – 2007.6): Staff Software Engineer, TSM (Tivoli Storage Management, IBM Stroage Management Software Product) 
-  Level 3, Linux Kernel and Test Cases Developer 
-- Sunrise Telecom (2006.2 – 2006.7): Design and develop a distributed and cross-platform network communication system，use
-  ACE 
-- MontaVista (2004.3 – 2006.2): MontaVista Realtime Embeded Linux Userland, Kernel, Tools
-- Lenovo (2001.6 – 2004.3): IDS (Intrusion Detection System, pattern-matching based deep packet inspection, i.e. DPI),IPS 
-  (Intrusion Prevention System), Firewall, Exploits Scanner, VPN(Virtual Private Network)，Firewall Central Administration， 
-  CA (Certificate Authority, cryptograph-based security technology)
+- IBM (2006.7 – 2007.6): Staff Software Engineer
+``` 
+TSM (Tivoli Storage Management, IBM Stroage Management Software Product) Level 3, Linux Kernel and Test Cases Developer
+```
+- Sunrise Telecom (2006.2 – 2006.7):
+```
+Design and develop a distributed and cross-platform network communication system，use ACE 
+```
+- MontaVista (2004.3 – 2006.2):
+```
+MontaVista Realtime Embeded Linux Userland, Kernel, Tools
+```
+- Lenovo (2001.6 – 2004.3): 
+```
+IDS (Intrusion Detection System, pattern-matching based deep packet inspection, i.e. DPI),IPS 
+(Intrusion Prevention System), Firewall, Exploits Scanner, VPN(Virtual Private Network)，Firewall Central Administration， 
+CA (Certificate Authority, cryptograph-based security technology)
 ```
 
 ## International conference presentations
