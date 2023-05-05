@@ -7,7 +7,7 @@ Last Name:  Yang
 Country:    China
 City:       Beijing
 Email Address: yang_y_yi at 163 dot com
-Mobile Phone: 86-135-20283017
+WeChat：![WeChat QRcode](yangyi-wechat.png)
 ```
 
 ## Company History
