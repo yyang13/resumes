@@ -6,7 +6,7 @@ First Name: Yi
 Last Name:  Yang
 Country:    China
 City:       Beijing
-Email Address: yang_y_yi at 163.com
+Email Address: yang_y_yi at 163 dot com
 Mobile Phone: 86-135-20283017
 ```
 
