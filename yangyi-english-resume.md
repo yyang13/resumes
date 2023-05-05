@@ -8,7 +8,7 @@ Country:    China
 City:       Beijing
 Email Address: yang_y_yi at 163 dot com
 ```
-WeChat：![WeChat QRcode](/blob/main/yangyi-wechat.jpg)
+WeChat：![WeChat QRcode](yangyi-wechat.jpg)
 
 
 ## Company History
