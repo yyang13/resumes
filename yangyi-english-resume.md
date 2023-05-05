@@ -7,8 +7,9 @@ Last Name:  Yang
 Country:    China
 City:       Beijing
 Email Address: yang_y_yi at 163 dot com
-WeChat：![WeChat QRcode](yangyi-wechat.png)
 ```
+WeChat：![WeChat QRcode](yangyi-wechat.png)
+
 
 ## Company History
 ```
