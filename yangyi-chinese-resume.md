@@ -19,7 +19,7 @@ WeChat：<img src="https://user-images.githubusercontent.com/1381010/236420887-f
 
 ## 技能
 
-- SDN/NFV, Tungsten Fabric(Opencontrail), OVS（Open vSwitch）, opendaylight, DPDK, open stack
+- SDN/NFV, Tungsten Fabric(Opencontrail), OVS（Open vSwitch）, opendaylight, DPDK, Openstack
 - 多线程编程调试
 - Cache 优化
 - 实时 Linux 技术
@@ -37,7 +37,7 @@ WeChat：<img src="https://user-images.githubusercontent.com/1381010/236420887-f
 
 ## 工作经历
  
-- 浪潮云服务（2018 年 11 月至2023年3月31日）：高级 SDN 架构师，主要调研超大规模 数据中心 3 层组网方案，SDN 解决方案，EIP 集群 NAT 网关设计实现，OVS DPDK 加速，Open stack neutron 全流表化实现，智能网卡硬件卸载和vDPA以及热迁移原型验证，虚拟网络性能问题解决等。
+- 浪潮云服务（2018 年 11 月至2023年3月31日）：高级 SDN 架构师，主要调研超大规模 数据中心 3 层组网方案，SDN 解决方案，EIP 集群 NAT 网关设计实现，OVS DPDK 加速，Openstack neutron 全流表化实现，智能网卡硬件卸载和vDPA以及热迁移原型验证，虚拟网络性能问题解决等。
 - 英特尔（Intel） (2007 年 6 月至 2018 年 11 月): 2013 年到2018年，SDN/NFV  architect,工作在 Opendaylight，Tungsten Fabric (Opencontrail), OVS, DPDK。2011 年到 2013 年，任 LTE eNodeB 系统软件架构师，重点集中在  实时性，性能优化，电源管理，SDN/NFV,DPDK,网络虚拟化性能。2008 年  到 2011 年是软件 Lead，负责设计、开发和维护  MIC2 (MeeGo Image Creator) 和 MIM (MeeGo Image Manager), 2007 年到 2008 年做 OSV (RedHat, Ubuntu, SuSE) Enabling， 自动化测试  工具和内核开发（ACPI 和 ACPICA）
 - IBM (2006 年 7 到 2007 年 6): 高级软件工程师, 存储管理软件 TSM(Tivoli Storage Management, IBM Stroage Management Software Product) Level 3 技术支持, Linux 技术中心 Linux 内核和测试 case 开 发。
 -美国胜利通信有限公司 (2006 年 2 到 2006 年 7): 使用ACE实现跨平台的 通信软件。
