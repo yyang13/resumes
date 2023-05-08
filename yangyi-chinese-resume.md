@@ -74,6 +74,38 @@ WeChat：<img src="https://user-images.githubusercontent.com/1381010/236420887-f
 <li><a href="https://www.linuxidc.com/Linux/2015-02/112910.htm">Linux 2.6 内核中新的锁机制--RCU</a></li>
 <li><a href="https://blog.csdn.net/simongyley/article/details/42460293">Linux 内核的同步机制，第 1 部分</a></li>
 <li><a href="https://www.cnblogs.com/zhihaowang/archive/2010/08/09/10128636.html">Linux 内核的同步机制，第 2 部分</a></li>
+ 
+## OVS代码贡献
+
+<table>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/2109841b798451230255c34d6724e17a6f075aa5">Use batch process recv for tap and raw socket in netdev datapath</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/96b82f6d5f1166895fa2ec0b3ba0215e94691855">datapath: enable NSH support</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/907c26a89d424eacc7eb150dc1d02f45029b844b">datapath: nsh: add GSO support</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/730f499dd209dacb5f2869dd0abbfe3b9efaa3d5">datapath: net: add NSH header structures and helpers</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/b80837ac4cb9b9be8763f45d42a4769107f2e80d">datapath: vxlan: factor out VXLAN-GPE next protocol</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/364294983d7de98151b50c225709c7a4ec2a4aa0"> datapath: ether: add NSH ethertype </a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/491e05c23362fbdb36dad9b575a6a67e41630868"> nsh: add dec_nsh_ttl action </a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/81fdabb94dd7b58e713f27cc1daf5c1794be9e0c">nsh: fix nested mask for OVS_KEY_ATTR_NSH</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/17553f27baa1d1883bed0d099f20e979cecd4a4c">nsh: add new flow key 'ttl'</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/f59cb331c481d08f9a851c07cf31e9d826650485">nsh: rework NSH netlink keys and actions</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/bce693e72a4488866dd333a09f94e768dcd8ebaf">nsh: fix an implicit bug in nsh_hdr_len</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/87da4e2f6b9a4a91ba906e0ec6964690a5be1afa">Remove duplicate description about Experimenter classes</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/b48f44ff75948f1c4d688f5f524d76c14756b280">Add NSH support information in NEWS</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/fefbbb748007993244346cdf77922fdc3cf69d46"> datapath: enable VxLAN-gpe port creation in compat mode</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/87b8aff3f97b808a763f822cf6b5ee3e7b9d6f4c">datapath: allow L3 netdev ports</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/6fcecb85ab042a1da98cbab912b79ed126071e19">datapath: add Ethernet push and pop actions</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/e9bcd25f7dababd9e03cd0a8d745f5a84809fd96">datapath: netlink: support L3 packets</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/a27c454ee01a6cf641d937ea8b4567c2763718eb">datapath: add processing of L3 packets</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/edd6d0987a6e785632e8648c2b52d12c446f3ce1"> datapath: support MPLS push and pop for L3 packets</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/f80d052433f9cebd0bd4ef0af50e5cdc4b1a3af6">datapath: pass mac_proto to ovs_vport_send</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/16d7640007aa295e0a95060baf7e976dd688d04c">datapath: add mac_proto field to the flow key</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/f0b0bdd20d9b9c247400266b7126cc4505362c1e">datapath: use hard_header_len instead of hardcoded ETH_HLEN</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/d7efce7beff25052bd9083419200e1a47f0d6066"> datapath: 802.1AD Flow handling, actions, vlan parsing, netlink attributes</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/ca6da1b12101b2fdf73b91eaa746c1417fe49302"> datapath: backport: vlan: Check for vlan ethernet types for 8021.q or 802.1ad</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/051f4b497ccdb9dd19b43ab1c0007b65cf18d6cb">datapath: backport: openvswitch: 802.1ad uapi changes. </a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/5c3f23fed6231e8df403794950c2cafe812f5a66"> datapath: backport: vlan: Introduce helper functions to check if skb is tagged</a></td></tr>
+<tr><td><a href="https://github.com/openvswitch/ovs/commit/42b0cf5fe74793df27515a9f723b7619ddeae943">datapath: backport: Fix vlan_insert_tag_set_proto(). </a></td></tr>
+</table>
 
 ## Linux内核贡献
 
