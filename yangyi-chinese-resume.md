@@ -40,7 +40,7 @@ WeChat：<img src="https://user-images.githubusercontent.com/1381010/236420887-f
 - 浪潮云服务（2018 年 11 月至2023年3月31日）：高级 SDN 架构师，主要调研超大规模 数据中心 3 层组网方案，SDN 解决方案，EIP 集群 NAT 网关设计实现，OVS DPDK 加速，Openstack neutron 全流表化实现，智能网卡硬件卸载和vDPA以及热迁移原型验证，虚拟网络性能问题解决等。
 - 英特尔（Intel） (2007 年 6 月至 2018 年 11 月): 2013 年到2018年，SDN/NFV  architect,工作在 Opendaylight，Tungsten Fabric (Opencontrail), OVS, DPDK。2011 年到 2013 年，任 LTE eNodeB 系统软件架构师，重点集中在  实时性，性能优化，电源管理，SDN/NFV,DPDK,网络虚拟化性能。2008 年  到 2011 年是软件 Lead，负责设计、开发和维护  MIC2 (MeeGo Image Creator) 和 MIM (MeeGo Image Manager), 2007 年到 2008 年做 OSV (RedHat, Ubuntu, SuSE) Enabling， 自动化测试  工具和内核开发（ACPI 和 ACPICA）
 - IBM (2006 年 7 到 2007 年 6): 高级软件工程师, 存储管理软件 TSM(Tivoli Storage Management, IBM Stroage Management Software Product) Level 3 技术支持, Linux 技术中心 Linux 内核和测试 case 开 发。
--美国胜利通信有限公司 (2006 年 2 到 2006 年 7): 使用ACE实现跨平台的 通信软件。
+- 美国胜利通信有限公司 (2006 年 2 到 2006 年 7): 使用ACE实现跨平台的 通信软件。
 - 北京麦克太软件技术有限公司 MontaVista (2004 年 3 到 2006 年 2): MontaVista Realtime Embeded Linux User land, Kernel, Tools
 - 联想研究院信息安全研究室 (2001 年 6 月到 2004 年 3 月): IDS (入侵检 测系统),IPS (入侵防护系统), 防火墙, 漏洞扫描器, VPN(虚拟转网)， 防火墙集中管理， CA (基于数字证书的认证中心)
 
@@ -100,7 +100,7 @@ WeChat：<img src="https://user-images.githubusercontent.com/1381010/236420887-f
 <li><a href="https://www.linuxidc.com/Linux/2015-02/112910.htm">Linux 2.6 内核中新的锁机制--RCU</a></li>
 <li><a href="https://blog.csdn.net/simongyley/article/details/42460293">Linux 内核的同步机制，第 1 部分</a></li>
 <li><a href="https://www.cnblogs.com/zhihaowang/archive/2010/08/09/10128636.html">Linux 内核的同步机制，第 2 部分</a></li>
- 
+
 ## OVS代码贡献
 
 <table>
