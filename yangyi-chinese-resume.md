@@ -12,7 +12,7 @@ WeChat：<img src="https://user-images.githubusercontent.com/1381010/236420887-f
 
 - 浪潮云 2018 年 11 月至2023年3月31日
 - 英特尔（Intel） 2007 年 6 月至 2018 年 11 月
-- IBM 2006 年 7 月到 2007 六月
+- IBM 2006 年 7 月到 2007年6月
 - 美国胜利通信有限公司（Sunrise Telecom） 2006 年 2 到 2006 年 7 月
 - 北京麦克太软件技术有限公司（MontaVista） 2004 年 3 月到 2006 年 2 月
 - 联想研究院（Lenovo Research Center） 2001 年 6 月到 2004 年 3 月
@@ -27,7 +27,8 @@ WeChat：<img src="https://user-images.githubusercontent.com/1381010/236420887-f
 - C/C++编程
 - GDB 调试
 - Linux 内核
-- Python, PyGtk, shell, Perl,PHP HTML, JavaScript, Ajax 10.熟悉 MySQL, PostGreSQL, Informix, SQL Server
+- Python, PyGtk, shell, Perl,PHP HTML, JavaScript, Ajax
+- 熟悉 MySQL, PostGreSQL, Informix, SQL Server
 
 ## 教育背景
 
