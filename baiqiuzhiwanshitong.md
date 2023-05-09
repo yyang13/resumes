@@ -29,8 +29,7 @@
 
 ![写作问答快照](https://user-images.githubusercontent.com/1381010/236998682-c9bab43e-d750-4827-adfc-d247dc9c0af7.jpg)
 
-## 生活中
-的各种问题
+## 生活中的各种问题
 
 ![医学方面的问答快照](https://user-images.githubusercontent.com/1381010/236997136-cc50ab8b-1086-4a1b-b316-f9d999775c31.jpg)
 
