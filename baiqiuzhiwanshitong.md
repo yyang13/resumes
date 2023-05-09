@@ -19,8 +19,23 @@
 
 ![做题快照](https://user-images.githubusercontent.com/1381010/236996930-5fa5117b-a19a-4bb1-8269-4a9116fab37a.jpg)
 
-## 生活中的各种问题
+![ceph技术问答快照](https://user-images.githubusercontent.com/1381010/236997962-4ebeb3aa-1ea5-4018-ac42-7ac9a3af1d06.jpg)
+
+![统计学的选择题快照](https://user-images.githubusercontent.com/1381010/236998169-86e2d804-6187-41f3-85e1-ceb6fad23744.jpg)
+
+![C#编程问答快照](https://user-images.githubusercontent.com/1381010/236998341-6321eebd-7373-4c66-9143-5ed8cd9d3000.jpg)
+
+![政治题解答快照](https://user-images.githubusercontent.com/1381010/236998531-a912d6a3-1f98-4f6a-b49e-857654c4f187.jpg)
+
+![写作问答快照](https://user-images.githubusercontent.com/1381010/236998682-c9bab43e-d750-4827-adfc-d247dc9c0af7.jpg)
+
+## 生活中
+的各种问题
 
 ![医学方面的问答快照](https://user-images.githubusercontent.com/1381010/236997136-cc50ab8b-1086-4a1b-b316-f9d999775c31.jpg)
 
 ![农民工问答快照](https://user-images.githubusercontent.com/1381010/236997514-6207ae47-9dfd-4d43-8a0a-cb7f8fb51855.jpg)
+
+![五一西安酒店问答快照](https://user-images.githubusercontent.com/1381010/236997793-0f23dbf8-d464-42b8-aac7-01312f9bd24c.jpg)
+
+![成吉思汗的陵墓问答快照](https://user-images.githubusercontent.com/1381010/236998857-515a9604-c433-4121-84ec-d7264b1abbfb.jpg)
