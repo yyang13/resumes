@@ -22,3 +22,5 @@
 ## 生活中的各种问题
 
 ![医学方面的问答快照](https://user-images.githubusercontent.com/1381010/236997136-cc50ab8b-1086-4a1b-b316-f9d999775c31.jpg)
+
+![农民工问答快照](https://user-images.githubusercontent.com/1381010/236997514-6207ae47-9dfd-4d43-8a0a-cb7f8fb51855.jpg)
